@@ -14,7 +14,6 @@ Debe ser válido para cualquier longitud de clave y texto original.
 ##Ejecución
 
 Antes de nada debemos compilar:
-
 `
     g++ main.cpp rc4.cpp -o rc4 (o salida que deseen)
 `
